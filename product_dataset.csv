@@ -1,0 +1,11 @@
+product_id,product_name,category,price,quantity_sold,discount,customer_age,customer_location,target_column
+2001,Tablet,Electronics,500,18,8,30,Illinois,1
+2002,Microwave,Home Appliances,200,14,10,42,Georgia,0
+2003,Desk,Furniture,250,10,15,35,Washington,1
+2004,Monitor,Electronics,180,25,12,29,Florida,1
+2005,Air Conditioner,Home Appliances,1200,7,20,50,Arizona,1
+2006,Bookshelf,Furniture,150,16,5,27,Oregon,0
+2007,Toaster,Kitchenware,40,50,3,24,Ohio,1
+2008,Printer,Electronics,250,12,18,45,Michigan,0
+2009,Vacuum Cleaner,Home Appliances,300,20,10,38,Texas,1
+2010,Smartwatch,Electronics,220,30,25,33,California,1
