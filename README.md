@@ -2,14 +2,6 @@ Machine Learning Model for Predicting Target Variable
 
 This is a machine learning project in which a target variable will be predicted using linear regression. It may contain missing values, and imputation is done on that. The performance of the model is evaluated using Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R²).
 
- Table of Contents
-
-- [Project Overview](#project-overview)
-- [Data](#data)
-- [Usage](#usage)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Contributing](#contributing)
-- [License](#license)
 
 Overview
 
