@@ -1,0 +1,1001 @@
+product_id,product_name,category,price,quantity_sold,discount,customer_age,customer_location,target_column
+1001,Microwave,Home Appliances,647,42,24,53,New York,1
+1002,Washing Machine,Home Appliances,79,27,15,37,Texas,0
+1003,Refrigerator,Home Appliances,666,21,5,37,Texas,0
+1004,Cookware Set,Kitchenware,743,48,13,58,Florida,0
+1005,Office Chair,Furniture,564,26,15,58,California,0
+1006,Knife Set,Kitchenware,541,12,27,45,Texas,1
+1007,TV,Electronics,740,11,29,33,Texas,0
+1008,Toaster,Kitchenware,252,33,30,56,Texas,0
+1009,Sofa,Furniture,238,12,11,26,Texas,1
+1010,Cookware Set,Kitchenware,971,31,20,29,California,1
+1011,TV,Electronics,187,29,16,60,Florida,0
+1012,Knife Set,Kitchenware,223,21,15,46,Texas,0
+1013,Cookware Set,Kitchenware,772,28,20,40,Texas,0
+1014,Table,Furniture,61,31,11,19,Texas,1
+1015,Smartphone,Electronics,851,37,9,23,California,1
+1016,Bookshelf,Furniture,124,44,24,55,California,1
+1017,Refrigerator,Home Appliances,86,39,23,33,New York,1
+1018,Knife Set,Kitchenware,398,50,29,29,California,1
+1019,Bookshelf,Furniture,895,17,14,45,California,0
+1020,Toaster,Kitchenware,84,32,19,44,California,1
+1021,Refrigerator,Home Appliances,525,24,6,22,New York,0
+1022,Smartphone,Electronics,381,40,17,46,New York,1
+1023,Refrigerator,Home Appliances,451,30,24,37,Florida,0
+1024,Laptop,Electronics,646,22,22,48,Texas,0
+1025,Blender,Kitchenware,644,24,10,53,New York,0
+1026,Office Chair,Furniture,592,8,6,23,New York,0
+1027,Blender,Kitchenware,637,31,6,30,New York,1
+1028,Laptop,Electronics,326,20,12,26,California,1
+1029,Bookshelf,Furniture,59,23,28,56,Texas,0
+1030,Gaming Console,Electronics,728,12,7,39,California,1
+1031,Coffee Maker,Home Appliances,843,49,24,57,New York,0
+1032,Microwave,Home Appliances,342,11,14,50,Texas,1
+1033,Table,Furniture,216,39,20,31,Florida,1
+1034,Sofa,Furniture,216,31,23,54,Texas,1
+1035,Office Chair,Furniture,301,18,16,42,Texas,1
+1036,Coffee Maker,Home Appliances,841,38,22,43,Texas,1
+1037,Smartphone,Electronics,574,40,15,54,New York,0
+1038,Knife Set,Kitchenware,805,15,19,60,New York,0
+1039,Toaster,Kitchenware,227,32,21,58,California,1
+1040,Washing Machine,Home Appliances,170,31,29,28,California,1
+1041,Bookshelf,Furniture,876,11,13,24,Texas,0
+1042,Office Chair,Furniture,824,9,18,34,New York,0
+1043,Knife Set,Kitchenware,736,25,7,60,New York,1
+1044,Office Chair,Furniture,148,44,15,56,California,1
+1045,TV,Electronics,641,38,25,54,New York,0
+1046,Knife Set,Kitchenware,190,35,6,31,New York,1
+1047,Bookshelf,Furniture,916,37,11,48,Texas,0
+1048,Blender,Kitchenware,217,14,8,19,Florida,0
+1049,Microwave,Home Appliances,121,24,22,27,Florida,0
+1050,Office Chair,Furniture,772,34,8,60,Florida,1
+1051,Table,Furniture,944,30,28,33,Florida,1
+1052,Gaming Console,Electronics,194,24,22,33,New York,0
+1053,TV,Electronics,967,6,17,40,New York,0
+1054,Office Chair,Furniture,520,30,29,45,New York,0
+1055,Blender,Kitchenware,347,21,15,49,Florida,1
+1056,Microwave,Home Appliances,495,50,12,45,Texas,0
+1057,Microwave,Home Appliances,315,22,21,50,California,1
+1058,Gaming Console,Electronics,499,25,10,50,New York,0
+1059,Table,Furniture,240,34,27,32,New York,0
+1060,Microwave,Home Appliances,59,39,6,38,New York,1
+1061,Coffee Maker,Home Appliances,743,10,14,32,Texas,1
+1062,Sofa,Furniture,115,9,8,21,California,1
+1063,Office Chair,Furniture,98,28,25,51,Florida,0
+1064,TV,Electronics,953,21,11,51,New York,0
+1065,TV,Electronics,413,13,23,33,New York,0
+1066,Sofa,Furniture,300,31,26,20,California,1
+1067,Office Chair,Furniture,72,47,29,20,Florida,0
+1068,TV,Electronics,58,16,21,50,California,1
+1069,Smartphone,Electronics,532,25,28,59,New York,0
+1070,Toaster,Kitchenware,496,7,27,50,New York,0
+1071,Refrigerator,Home Appliances,891,20,11,40,California,0
+1072,Smartphone,Electronics,435,16,11,55,Florida,1
+1073,Blender,Kitchenware,825,22,11,25,Texas,0
+1074,Microwave,Home Appliances,649,30,7,42,California,1
+1075,Table,Furniture,757,35,12,46,Texas,1
+1076,Sofa,Furniture,325,44,19,58,California,0
+1077,Refrigerator,Home Appliances,613,10,21,28,Texas,0
+1078,Knife Set,Kitchenware,470,17,26,55,New York,1
+1079,Blender,Kitchenware,134,7,9,51,Florida,1
+1080,Knife Set,Kitchenware,848,28,10,21,Florida,1
+1081,Refrigerator,Home Appliances,556,41,22,58,California,1
+1082,Cookware Set,Kitchenware,450,9,20,58,Texas,0
+1083,Office Chair,Furniture,491,15,16,51,Texas,0
+1084,Toaster,Kitchenware,627,30,27,20,California,1
+1085,Microwave,Home Appliances,704,5,12,25,Texas,0
+1086,Laptop,Electronics,389,39,5,24,New York,0
+1087,Office Chair,Furniture,736,28,10,45,California,0
+1088,TV,Electronics,171,26,20,25,California,0
+1089,Bookshelf,Furniture,941,13,22,34,Florida,1
+1090,Knife Set,Kitchenware,219,16,24,19,Texas,0
+1091,Washing Machine,Home Appliances,279,26,29,24,Florida,0
+1092,Coffee Maker,Home Appliances,616,10,27,37,Florida,0
+1093,Gaming Console,Electronics,576,14,29,51,Texas,0
+1094,Knife Set,Kitchenware,257,32,23,23,New York,0
+1095,Table,Furniture,855,18,9,24,California,1
+1096,Microwave,Home Appliances,57,17,25,26,Florida,1
+1097,Office Chair,Furniture,703,34,18,53,California,0
+1098,Microwave,Home Appliances,605,37,26,31,California,1
+1099,Gaming Console,Electronics,174,15,11,40,New York,0
+1100,Refrigerator,Home Appliances,817,47,24,37,California,0
+1101,Washing Machine,Home Appliances,107,6,27,36,Texas,1
+1102,Sofa,Furniture,860,31,19,54,New York,1
+1103,Microwave,Home Appliances,486,19,6,24,California,0
+1104,Laptop,Electronics,336,16,16,42,Florida,1
+1105,Table,Furniture,961,44,17,53,California,0
+1106,Office Chair,Furniture,982,38,29,37,Florida,0
+1107,Sofa,Furniture,927,26,15,33,Florida,0
+1108,Washing Machine,Home Appliances,579,8,5,31,California,0
+1109,Gaming Console,Electronics,333,18,10,57,Texas,1
+1110,Laptop,Electronics,185,36,16,53,Texas,1
+1111,Blender,Kitchenware,898,8,24,57,California,0
+1112,Sofa,Furniture,95,45,18,26,Texas,0
+1113,Microwave,Home Appliances,962,10,12,45,Texas,1
+1114,Table,Furniture,239,17,24,28,Texas,1
+1115,Sofa,Furniture,767,15,15,34,California,0
+1116,Knife Set,Kitchenware,632,11,26,23,Texas,0
+1117,Microwave,Home Appliances,933,6,19,18,New York,1
+1118,Gaming Console,Electronics,962,49,15,55,New York,1
+1119,Microwave,Home Appliances,614,35,10,48,Florida,1
+1120,Table,Furniture,591,11,30,36,California,0
+1121,Headphones,Electronics,145,20,26,37,California,0
+1122,Coffee Maker,Home Appliances,607,38,18,43,New York,1
+1123,Toaster,Kitchenware,331,16,16,44,Texas,0
+1124,Laptop,Electronics,241,31,28,41,Florida,1
+1125,Coffee Maker,Home Appliances,841,41,19,36,New York,0
+1126,Knife Set,Kitchenware,148,12,7,41,Texas,1
+1127,Laptop,Electronics,147,34,23,51,California,1
+1128,Coffee Maker,Home Appliances,259,37,6,39,New York,1
+1129,Cookware Set,Kitchenware,843,37,7,56,New York,0
+1130,Sofa,Furniture,230,13,14,32,Texas,1
+1131,Refrigerator,Home Appliances,232,47,12,19,California,1
+1132,Laptop,Electronics,634,27,30,45,Texas,0
+1133,Knife Set,Kitchenware,198,16,29,45,Texas,1
+1134,Office Chair,Furniture,913,11,25,34,California,1
+1135,Knife Set,Kitchenware,858,16,6,52,Florida,1
+1136,Bookshelf,Furniture,948,9,24,20,Florida,1
+1137,Headphones,Electronics,389,18,29,58,Florida,0
+1138,Coffee Maker,Home Appliances,746,21,12,21,California,1
+1139,Coffee Maker,Home Appliances,688,45,22,51,Florida,1
+1140,Table,Furniture,470,5,21,29,Florida,0
+1141,Refrigerator,Home Appliances,470,39,16,18,Texas,0
+1142,Toaster,Kitchenware,829,50,21,48,New York,0
+1143,Blender,Kitchenware,338,30,26,24,New York,1
+1144,Microwave,Home Appliances,647,12,29,34,California,0
+1145,Table,Furniture,92,44,9,42,Texas,0
+1146,Table,Furniture,792,11,5,20,California,0
+1147,Washing Machine,Home Appliances,645,25,11,25,New York,0
+1148,Office Chair,Furniture,235,42,7,36,Florida,0
+1149,Office Chair,Furniture,792,14,14,59,New York,1
+1150,Bookshelf,Furniture,537,13,27,40,Texas,0
+1151,Table,Furniture,808,8,10,36,California,0
+1152,Sofa,Furniture,206,10,26,48,Texas,0
+1153,Table,Furniture,386,47,12,20,New York,0
+1154,Sofa,Furniture,312,13,13,22,New York,0
+1155,Microwave,Home Appliances,492,23,13,32,Florida,0
+1156,Laptop,Electronics,295,36,11,48,Texas,0
+1157,Washing Machine,Home Appliances,743,35,14,36,Texas,0
+1158,Knife Set,Kitchenware,880,23,30,49,Texas,1
+1159,Headphones,Electronics,660,21,8,36,New York,0
+1160,Bookshelf,Furniture,894,24,20,37,Texas,1
+1161,Sofa,Furniture,500,21,19,54,California,0
+1162,Coffee Maker,Home Appliances,353,43,6,55,Florida,1
+1163,Toaster,Kitchenware,100,5,16,49,California,0
+1164,Refrigerator,Home Appliances,885,7,16,47,California,0
+1165,Headphones,Electronics,313,16,16,58,California,1
+1166,Toaster,Kitchenware,890,41,17,33,California,0
+1167,Cookware Set,Kitchenware,559,30,16,29,New York,1
+1168,Toaster,Kitchenware,651,9,9,31,New York,1
+1169,Sofa,Furniture,980,27,28,51,Texas,1
+1170,Washing Machine,Home Appliances,63,32,19,56,New York,0
+1171,Toaster,Kitchenware,760,27,16,50,New York,0
+1172,Knife Set,Kitchenware,972,39,9,32,Texas,1
+1173,Cookware Set,Kitchenware,838,38,15,39,California,1
+1174,Headphones,Electronics,855,23,29,23,Florida,1
+1175,Coffee Maker,Home Appliances,422,24,30,34,Texas,0
+1176,Cookware Set,Kitchenware,616,6,20,43,Florida,0
+1177,Gaming Console,Electronics,72,47,29,48,California,1
+1178,TV,Electronics,863,27,26,50,New York,0
+1179,Bookshelf,Furniture,123,17,13,54,New York,1
+1180,Table,Furniture,793,5,12,43,California,0
+1181,Coffee Maker,Home Appliances,780,15,16,57,California,1
+1182,Cookware Set,Kitchenware,238,45,6,40,Texas,1
+1183,Blender,Kitchenware,397,40,16,54,Texas,1
+1184,Sofa,Furniture,916,18,7,53,California,0
+1185,Office Chair,Furniture,448,28,17,25,New York,0
+1186,Blender,Kitchenware,796,50,13,21,New York,1
+1187,Headphones,Electronics,513,49,13,60,California,1
+1188,Washing Machine,Home Appliances,270,36,5,20,California,0
+1189,Headphones,Electronics,846,50,11,31,New York,1
+1190,Refrigerator,Home Appliances,321,10,27,25,California,0
+1191,Toaster,Kitchenware,646,35,30,30,New York,0
+1192,Cookware Set,Kitchenware,829,7,6,33,California,1
+1193,Table,Furniture,570,46,13,49,California,1
+1194,Gaming Console,Electronics,477,23,30,34,Florida,1
+1195,Coffee Maker,Home Appliances,656,10,19,60,New York,1
+1196,Table,Furniture,122,48,12,23,California,1
+1197,Coffee Maker,Home Appliances,538,27,18,25,California,1
+1198,Microwave,Home Appliances,142,32,14,28,New York,0
+1199,Toaster,Kitchenware,804,11,23,51,California,0
+1200,Office Chair,Furniture,154,23,25,39,Texas,0
+1201,Bookshelf,Furniture,470,28,11,55,Texas,0
+1202,Cookware Set,Kitchenware,529,38,7,50,New York,0
+1203,Laptop,Electronics,943,33,13,43,New York,1
+1204,Knife Set,Kitchenware,944,23,22,42,New York,1
+1205,Office Chair,Furniture,201,18,15,55,California,1
+1206,Blender,Kitchenware,561,49,12,57,Texas,0
+1207,Toaster,Kitchenware,731,22,6,28,Florida,0
+1208,Coffee Maker,Home Appliances,119,25,13,36,California,1
+1209,Table,Furniture,52,48,8,55,California,0
+1210,Table,Furniture,764,31,5,25,California,0
+1211,Bookshelf,Furniture,983,6,25,30,California,0
+1212,Knife Set,Kitchenware,780,27,5,31,New York,1
+1213,Smartphone,Electronics,304,37,20,51,California,1
+1214,Microwave,Home Appliances,704,17,23,44,California,0
+1215,Bookshelf,Furniture,323,46,12,21,Florida,0
+1216,Table,Furniture,811,43,27,20,Texas,1
+1217,Office Chair,Furniture,775,9,6,51,Florida,0
+1218,Refrigerator,Home Appliances,733,44,8,29,Texas,0
+1219,Toaster,Kitchenware,653,14,14,55,Florida,1
+1220,Gaming Console,Electronics,58,30,17,50,Florida,0
+1221,Office Chair,Furniture,966,27,25,39,New York,0
+1222,Coffee Maker,Home Appliances,645,45,7,54,Florida,0
+1223,Headphones,Electronics,757,38,10,50,Florida,0
+1224,TV,Electronics,555,35,23,32,Texas,1
+1225,TV,Electronics,290,22,12,53,California,0
+1226,Laptop,Electronics,82,18,29,48,New York,1
+1227,Table,Furniture,585,48,23,54,Florida,0
+1228,Washing Machine,Home Appliances,620,17,6,31,Texas,1
+1229,TV,Electronics,781,40,5,34,Florida,0
+1230,Laptop,Electronics,369,21,12,27,Florida,0
+1231,Headphones,Electronics,984,43,5,19,California,1
+1232,Blender,Kitchenware,707,25,26,22,Texas,0
+1233,Microwave,Home Appliances,935,20,17,30,Florida,1
+1234,Bookshelf,Furniture,275,44,30,53,Texas,0
+1235,TV,Electronics,562,20,25,40,Florida,1
+1236,Gaming Console,Electronics,433,26,13,42,California,0
+1237,Table,Furniture,73,28,12,41,Texas,0
+1238,Washing Machine,Home Appliances,209,23,24,58,Texas,1
+1239,Sofa,Furniture,110,27,30,49,Florida,0
+1240,Smartphone,Electronics,287,34,30,41,Texas,1
+1241,Smartphone,Electronics,172,11,6,27,Florida,1
+1242,Washing Machine,Home Appliances,483,26,27,33,Florida,0
+1243,Cookware Set,Kitchenware,753,5,6,56,New York,0
+1244,TV,Electronics,217,30,17,21,New York,1
+1245,Bookshelf,Furniture,915,30,22,19,Texas,0
+1246,Sofa,Furniture,698,43,13,27,Florida,1
+1247,Cookware Set,Kitchenware,810,50,29,21,New York,0
+1248,Microwave,Home Appliances,490,22,20,60,New York,0
+1249,Knife Set,Kitchenware,117,47,21,30,California,1
+1250,Blender,Kitchenware,172,10,14,43,California,0
+1251,Cookware Set,Kitchenware,931,38,6,49,Texas,1
+1252,Coffee Maker,Home Appliances,358,6,18,47,California,1
+1253,Toaster,Kitchenware,924,13,11,57,Florida,1
+1254,Table,Furniture,371,25,18,23,Texas,0
+1255,Refrigerator,Home Appliances,899,44,17,35,New York,0
+1256,Washing Machine,Home Appliances,280,26,14,53,New York,1
+1257,Knife Set,Kitchenware,422,32,20,19,California,1
+1258,Washing Machine,Home Appliances,362,19,20,23,Texas,1
+1259,Knife Set,Kitchenware,85,5,19,58,New York,1
+1260,Office Chair,Furniture,211,45,28,40,California,0
+1261,Coffee Maker,Home Appliances,372,50,22,36,Texas,1
+1262,Blender,Kitchenware,725,11,5,21,Florida,0
+1263,Coffee Maker,Home Appliances,571,12,22,55,New York,0
+1264,Bookshelf,Furniture,731,48,17,28,New York,1
+1265,Coffee Maker,Home Appliances,60,9,16,39,California,1
+1266,Office Chair,Furniture,851,31,22,57,New York,0
+1267,Office Chair,Furniture,190,20,18,19,Florida,0
+1268,Table,Furniture,318,41,24,26,New York,1
+1269,Toaster,Kitchenware,610,26,12,36,California,0
+1270,Refrigerator,Home Appliances,963,34,20,40,New York,1
+1271,Refrigerator,Home Appliances,753,49,19,52,Texas,1
+1272,Bookshelf,Furniture,547,35,24,26,California,0
+1273,TV,Electronics,198,30,22,41,Texas,1
+1274,Headphones,Electronics,861,5,22,54,New York,0
+1275,Cookware Set,Kitchenware,640,49,17,28,California,1
+1276,Refrigerator,Home Appliances,634,16,22,23,Florida,1
+1277,Sofa,Furniture,744,24,7,20,New York,0
+1278,Microwave,Home Appliances,904,19,21,27,New York,1
+1279,Knife Set,Kitchenware,176,22,28,38,Texas,1
+1280,Sofa,Furniture,303,50,6,31,Florida,0
+1281,Gaming Console,Electronics,558,43,22,39,Texas,0
+1282,Table,Furniture,376,46,23,23,New York,0
+1283,Washing Machine,Home Appliances,192,25,25,59,Florida,0
+1284,Table,Furniture,451,17,7,26,Texas,0
+1285,Bookshelf,Furniture,746,14,30,60,Florida,0
+1286,Smartphone,Electronics,671,48,21,19,Florida,0
+1287,Toaster,Kitchenware,370,43,7,36,California,1
+1288,Office Chair,Furniture,957,32,5,29,New York,1
+1289,Knife Set,Kitchenware,415,33,28,46,Texas,0
+1290,Refrigerator,Home Appliances,454,26,10,54,Florida,1
+1291,Coffee Maker,Home Appliances,555,46,9,35,Texas,0
+1292,Coffee Maker,Home Appliances,371,12,18,55,New York,0
+1293,Refrigerator,Home Appliances,762,33,21,53,New York,0
+1294,Table,Furniture,427,33,28,45,Florida,1
+1295,TV,Electronics,340,12,25,21,California,0
+1296,Office Chair,Furniture,427,48,7,29,Texas,0
+1297,Headphones,Electronics,906,38,21,56,New York,0
+1298,Blender,Kitchenware,332,38,13,50,New York,1
+1299,Refrigerator,Home Appliances,874,5,18,47,Florida,0
+1300,Knife Set,Kitchenware,928,14,30,57,California,0
+1301,Table,Furniture,328,40,7,35,Florida,0
+1302,Refrigerator,Home Appliances,285,29,25,31,Florida,0
+1303,Toaster,Kitchenware,985,6,23,19,Texas,0
+1304,Coffee Maker,Home Appliances,584,43,20,54,New York,0
+1305,Washing Machine,Home Appliances,298,25,16,20,Florida,1
+1306,Knife Set,Kitchenware,892,31,16,21,California,0
+1307,Washing Machine,Home Appliances,873,19,30,45,Florida,1
+1308,Table,Furniture,211,10,7,34,Florida,0
+1309,Headphones,Electronics,418,34,19,37,California,0
+1310,Knife Set,Kitchenware,147,46,20,25,Florida,0
+1311,Toaster,Kitchenware,134,6,21,39,Florida,1
+1312,Smartphone,Electronics,807,49,22,56,California,0
+1313,Headphones,Electronics,861,28,29,39,Texas,0
+1314,Toaster,Kitchenware,423,44,9,54,New York,1
+1315,Sofa,Furniture,978,9,24,22,California,1
+1316,Knife Set,Kitchenware,274,16,24,42,Florida,1
+1317,Gaming Console,Electronics,424,7,23,39,Florida,0
+1318,Coffee Maker,Home Appliances,979,16,11,19,Texas,1
+1319,Cookware Set,Kitchenware,638,24,12,47,Texas,0
+1320,TV,Electronics,857,37,10,58,California,0
+1321,Bookshelf,Furniture,632,48,23,41,Texas,1
+1322,Washing Machine,Home Appliances,874,26,16,49,Texas,1
+1323,Washing Machine,Home Appliances,765,38,8,18,California,1
+1324,Coffee Maker,Home Appliances,195,5,12,34,New York,0
+1325,Toaster,Kitchenware,1000,32,16,20,New York,1
+1326,Sofa,Furniture,437,23,13,41,Texas,1
+1327,Toaster,Kitchenware,811,42,7,35,California,0
+1328,Microwave,Home Appliances,198,17,22,50,California,0
+1329,Cookware Set,Kitchenware,450,7,30,20,New York,1
+1330,Microwave,Home Appliances,495,43,11,47,Florida,0
+1331,Smartphone,Electronics,72,11,9,36,Texas,1
+1332,Smartphone,Electronics,712,11,7,33,New York,1
+1333,Gaming Console,Electronics,229,12,18,26,New York,1
+1334,Refrigerator,Home Appliances,422,44,30,19,Florida,0
+1335,Laptop,Electronics,409,18,27,44,Florida,0
+1336,Refrigerator,Home Appliances,267,49,18,52,New York,0
+1337,Microwave,Home Appliances,150,17,13,37,New York,1
+1338,Coffee Maker,Home Appliances,722,17,22,54,Texas,0
+1339,Cookware Set,Kitchenware,110,22,24,38,Texas,0
+1340,Table,Furniture,769,26,9,34,Texas,1
+1341,Washing Machine,Home Appliances,857,31,29,20,California,1
+1342,Coffee Maker,Home Appliances,326,6,18,38,Texas,1
+1343,Coffee Maker,Home Appliances,911,46,19,49,Florida,0
+1344,Laptop,Electronics,393,45,24,41,Florida,1
+1345,Blender,Kitchenware,668,37,28,32,Florida,1
+1346,Coffee Maker,Home Appliances,641,47,14,26,California,0
+1347,Sofa,Furniture,748,8,7,26,Florida,0
+1348,Cookware Set,Kitchenware,968,22,26,51,California,0
+1349,Coffee Maker,Home Appliances,502,38,12,52,California,1
+1350,Table,Furniture,432,37,23,22,New York,0
+1351,Knife Set,Kitchenware,239,9,7,25,Florida,1
+1352,Coffee Maker,Home Appliances,817,40,29,38,California,0
+1353,Table,Furniture,973,48,25,46,Texas,1
+1354,Knife Set,Kitchenware,568,5,18,39,Texas,0
+1355,Coffee Maker,Home Appliances,157,50,5,35,Texas,1
+1356,Coffee Maker,Home Appliances,521,16,13,59,California,1
+1357,Bookshelf,Furniture,900,35,6,33,Florida,0
+1358,Knife Set,Kitchenware,586,31,20,22,California,1
+1359,Office Chair,Furniture,651,32,6,54,New York,0
+1360,Laptop,Electronics,375,39,26,58,Texas,1
+1361,Gaming Console,Electronics,155,20,29,58,New York,1
+1362,Coffee Maker,Home Appliances,845,49,7,25,Texas,0
+1363,Microwave,Home Appliances,282,46,23,19,New York,0
+1364,Microwave,Home Appliances,980,44,11,30,Texas,1
+1365,Bookshelf,Furniture,551,34,21,41,Florida,1
+1366,Smartphone,Electronics,645,42,11,48,California,0
+1367,Coffee Maker,Home Appliances,800,13,8,52,California,1
+1368,Knife Set,Kitchenware,765,48,22,31,California,0
+1369,Smartphone,Electronics,545,28,11,58,Texas,1
+1370,Washing Machine,Home Appliances,395,49,25,47,Texas,1
+1371,Microwave,Home Appliances,350,9,26,41,New York,0
+1372,Washing Machine,Home Appliances,198,41,6,38,New York,0
+1373,Laptop,Electronics,217,12,10,20,Florida,1
+1374,Smartphone,Electronics,261,34,25,47,California,1
+1375,Coffee Maker,Home Appliances,342,32,15,60,Texas,0
+1376,Coffee Maker,Home Appliances,99,21,28,28,Florida,0
+1377,Coffee Maker,Home Appliances,414,39,21,45,Texas,1
+1378,Table,Furniture,615,46,9,50,Florida,1
+1379,Washing Machine,Home Appliances,62,34,21,43,Florida,0
+1380,Sofa,Furniture,840,38,20,18,New York,0
+1381,Gaming Console,Electronics,309,28,15,34,New York,0
+1382,Laptop,Electronics,53,32,8,31,Florida,0
+1383,Headphones,Electronics,868,42,18,30,Texas,0
+1384,Knife Set,Kitchenware,142,48,23,48,California,1
+1385,Knife Set,Kitchenware,755,47,28,24,Texas,1
+1386,Refrigerator,Home Appliances,256,36,18,18,Texas,0
+1387,TV,Electronics,175,8,24,37,New York,0
+1388,Bookshelf,Furniture,778,34,24,54,California,1
+1389,Knife Set,Kitchenware,478,16,22,57,Florida,1
+1390,Office Chair,Furniture,233,39,30,24,Florida,0
+1391,Table,Furniture,583,10,13,36,California,1
+1392,Headphones,Electronics,202,11,16,41,California,1
+1393,TV,Electronics,795,17,30,51,Texas,1
+1394,Headphones,Electronics,442,34,13,48,California,1
+1395,Coffee Maker,Home Appliances,306,13,26,22,Texas,1
+1396,Blender,Kitchenware,971,41,13,54,California,1
+1397,Smartphone,Electronics,69,11,5,39,California,1
+1398,Blender,Kitchenware,345,17,19,48,New York,0
+1399,Knife Set,Kitchenware,539,33,19,50,New York,0
+1400,Headphones,Electronics,752,49,9,31,Texas,0
+1401,Coffee Maker,Home Appliances,156,33,29,26,California,0
+1402,Washing Machine,Home Appliances,989,44,14,19,New York,0
+1403,Table,Furniture,972,30,14,33,New York,0
+1404,Knife Set,Kitchenware,675,33,6,24,New York,0
+1405,Headphones,Electronics,905,5,22,52,California,1
+1406,Laptop,Electronics,928,43,20,39,Florida,1
+1407,Gaming Console,Electronics,273,5,14,52,California,0
+1408,Blender,Kitchenware,986,15,21,33,Florida,0
+1409,Bookshelf,Furniture,232,20,25,59,Texas,0
+1410,Sofa,Furniture,337,20,25,29,New York,1
+1411,Blender,Kitchenware,656,23,21,30,Florida,0
+1412,Microwave,Home Appliances,787,31,18,45,Florida,1
+1413,Microwave,Home Appliances,174,48,27,18,California,0
+1414,Refrigerator,Home Appliances,484,43,25,27,New York,1
+1415,Sofa,Furniture,164,35,10,19,California,1
+1416,Office Chair,Furniture,286,8,29,59,California,1
+1417,Toaster,Kitchenware,285,44,17,24,Texas,0
+1418,Blender,Kitchenware,102,17,21,47,Florida,1
+1419,TV,Electronics,59,18,18,50,Florida,0
+1420,Headphones,Electronics,862,22,20,39,Texas,0
+1421,Smartphone,Electronics,949,36,20,42,Texas,0
+1422,Cookware Set,Kitchenware,292,12,22,34,California,0
+1423,Coffee Maker,Home Appliances,792,48,14,53,Florida,0
+1424,Smartphone,Electronics,926,42,25,23,New York,0
+1425,Coffee Maker,Home Appliances,431,9,25,48,Texas,1
+1426,Toaster,Kitchenware,926,25,7,35,California,1
+1427,Blender,Kitchenware,582,42,26,48,Florida,1
+1428,Microwave,Home Appliances,844,34,14,42,Florida,0
+1429,Cookware Set,Kitchenware,337,44,15,44,Texas,1
+1430,Bookshelf,Furniture,234,17,12,45,Texas,1
+1431,Blender,Kitchenware,278,25,12,44,California,1
+1432,Table,Furniture,847,23,26,54,Florida,1
+1433,Bookshelf,Furniture,522,9,21,58,New York,1
+1434,Blender,Kitchenware,544,32,17,54,Florida,1
+1435,Table,Furniture,124,44,7,44,Texas,0
+1436,TV,Electronics,497,37,5,58,New York,0
+1437,Office Chair,Furniture,710,36,8,20,New York,1
+1438,Coffee Maker,Home Appliances,360,17,15,52,Florida,1
+1439,Headphones,Electronics,126,46,10,27,Florida,0
+1440,Washing Machine,Home Appliances,142,49,20,31,California,1
+1441,Washing Machine,Home Appliances,670,23,14,40,Florida,0
+1442,Refrigerator,Home Appliances,708,20,28,44,California,1
+1443,Microwave,Home Appliances,895,38,5,33,Texas,1
+1444,Bookshelf,Furniture,626,29,26,28,Texas,1
+1445,Laptop,Electronics,413,8,6,23,Florida,0
+1446,Toaster,Kitchenware,595,24,29,27,California,1
+1447,Sofa,Furniture,350,11,26,48,Texas,1
+1448,Laptop,Electronics,576,34,5,48,New York,1
+1449,Coffee Maker,Home Appliances,484,12,17,53,Texas,0
+1450,Bookshelf,Furniture,968,31,9,20,New York,0
+1451,Knife Set,Kitchenware,708,26,19,48,Florida,1
+1452,Bookshelf,Furniture,274,21,15,36,California,0
+1453,Office Chair,Furniture,344,25,18,22,Florida,0
+1454,Table,Furniture,634,6,28,57,Texas,0
+1455,Washing Machine,Home Appliances,431,40,18,56,Texas,1
+1456,Sofa,Furniture,699,19,11,24,New York,1
+1457,Headphones,Electronics,831,43,7,47,New York,0
+1458,Washing Machine,Home Appliances,783,25,26,33,New York,1
+1459,Laptop,Electronics,842,49,30,57,New York,1
+1460,Table,Furniture,959,9,30,58,California,1
+1461,TV,Electronics,673,8,18,41,California,0
+1462,Coffee Maker,Home Appliances,458,23,17,25,Florida,0
+1463,Office Chair,Furniture,864,5,6,32,Florida,1
+1464,Microwave,Home Appliances,744,11,13,37,Florida,0
+1465,Blender,Kitchenware,678,36,17,49,New York,0
+1466,Toaster,Kitchenware,447,18,5,45,Florida,1
+1467,Table,Furniture,955,24,28,44,New York,0
+1468,Smartphone,Electronics,420,25,16,49,New York,1
+1469,Gaming Console,Electronics,679,28,19,59,California,1
+1470,Knife Set,Kitchenware,996,35,10,26,Florida,0
+1471,Washing Machine,Home Appliances,871,49,18,26,California,1
+1472,Toaster,Kitchenware,455,5,19,24,Florida,0
+1473,Toaster,Kitchenware,285,29,22,36,California,1
+1474,Blender,Kitchenware,331,34,25,60,Florida,0
+1475,Toaster,Kitchenware,405,29,16,49,New York,0
+1476,Cookware Set,Kitchenware,90,21,14,37,New York,1
+1477,Smartphone,Electronics,929,34,27,30,New York,1
+1478,Office Chair,Furniture,364,42,30,22,Florida,1
+1479,Refrigerator,Home Appliances,538,32,27,26,Florida,1
+1480,Laptop,Electronics,507,26,7,43,Texas,0
+1481,Washing Machine,Home Appliances,607,16,23,40,New York,0
+1482,Bookshelf,Furniture,152,22,5,21,California,1
+1483,Coffee Maker,Home Appliances,909,25,9,52,Texas,1
+1484,Office Chair,Furniture,907,31,6,46,California,1
+1485,Blender,Kitchenware,570,49,22,36,New York,0
+1486,Microwave,Home Appliances,92,25,21,28,Texas,1
+1487,Cookware Set,Kitchenware,657,28,7,52,New York,0
+1488,Toaster,Kitchenware,684,18,14,56,Florida,1
+1489,Microwave,Home Appliances,213,13,23,31,Texas,0
+1490,Smartphone,Electronics,465,49,30,33,New York,0
+1491,Knife Set,Kitchenware,703,29,25,57,New York,1
+1492,Laptop,Electronics,702,15,29,45,Texas,0
+1493,Washing Machine,Home Appliances,949,45,26,40,California,1
+1494,Knife Set,Kitchenware,280,10,9,42,New York,0
+1495,Blender,Kitchenware,564,15,23,50,New York,1
+1496,Gaming Console,Electronics,594,9,19,29,Texas,1
+1497,Coffee Maker,Home Appliances,543,47,13,58,California,1
+1498,Office Chair,Furniture,359,37,8,55,California,1
+1499,Office Chair,Furniture,251,9,11,36,Texas,0
+1500,Coffee Maker,Home Appliances,301,27,10,34,Florida,0
+1501,Bookshelf,Furniture,902,32,30,44,New York,0
+1502,Bookshelf,Furniture,260,44,9,24,Texas,1
+1503,Laptop,Electronics,105,17,28,48,Texas,1
+1504,Coffee Maker,Home Appliances,246,30,14,43,New York,0
+1505,Refrigerator,Home Appliances,395,31,15,42,Florida,1
+1506,Laptop,Electronics,142,20,15,54,New York,1
+1507,Sofa,Furniture,761,10,7,24,New York,0
+1508,Cookware Set,Kitchenware,599,7,15,25,Texas,1
+1509,Washing Machine,Home Appliances,421,43,27,32,Florida,1
+1510,Office Chair,Furniture,349,24,23,53,Texas,0
+1511,Microwave,Home Appliances,765,33,15,26,California,0
+1512,Table,Furniture,755,9,14,23,California,0
+1513,Bookshelf,Furniture,978,48,19,56,Florida,1
+1514,Knife Set,Kitchenware,519,15,14,51,Florida,0
+1515,Blender,Kitchenware,460,19,22,28,Florida,0
+1516,Sofa,Furniture,476,22,14,46,New York,1
+1517,Office Chair,Furniture,165,20,24,50,Florida,0
+1518,Blender,Kitchenware,389,43,29,44,California,1
+1519,Coffee Maker,Home Appliances,878,30,18,50,New York,1
+1520,Sofa,Furniture,951,8,12,56,Florida,0
+1521,Toaster,Kitchenware,128,45,8,53,Florida,0
+1522,Refrigerator,Home Appliances,434,21,11,30,California,0
+1523,Table,Furniture,957,9,13,58,Florida,0
+1524,Bookshelf,Furniture,128,32,14,57,New York,1
+1525,TV,Electronics,199,10,9,24,Texas,0
+1526,Washing Machine,Home Appliances,428,34,28,47,California,0
+1527,Microwave,Home Appliances,104,18,30,21,Texas,1
+1528,Cookware Set,Kitchenware,226,39,25,53,Florida,0
+1529,Table,Furniture,850,24,29,33,California,1
+1530,Toaster,Kitchenware,162,34,18,50,New York,1
+1531,Washing Machine,Home Appliances,623,34,11,53,New York,1
+1532,Office Chair,Furniture,391,40,15,27,Florida,1
+1533,Table,Furniture,494,39,7,30,New York,0
+1534,Sofa,Furniture,438,43,23,38,Texas,0
+1535,TV,Electronics,958,21,25,35,Texas,0
+1536,Office Chair,Furniture,183,23,27,46,New York,1
+1537,Sofa,Furniture,323,37,28,29,Texas,1
+1538,Sofa,Furniture,606,31,19,25,New York,1
+1539,Office Chair,Furniture,878,15,30,27,New York,1
+1540,Toaster,Kitchenware,507,29,25,47,Texas,0
+1541,TV,Electronics,592,7,19,25,New York,1
+1542,Sofa,Furniture,55,20,21,44,Florida,1
+1543,Refrigerator,Home Appliances,768,13,17,31,California,0
+1544,Coffee Maker,Home Appliances,919,41,7,26,California,0
+1545,Office Chair,Furniture,625,24,19,29,Texas,1
+1546,Refrigerator,Home Appliances,899,45,30,30,Texas,1
+1547,Laptop,Electronics,486,46,27,45,California,0
+1548,Smartphone,Electronics,821,37,11,35,New York,1
+1549,Table,Furniture,470,24,23,36,Texas,1
+1550,Headphones,Electronics,341,40,29,28,California,0
+1551,Table,Furniture,941,15,25,57,Florida,0
+1552,Smartphone,Electronics,715,45,16,42,Texas,0
+1553,Toaster,Kitchenware,486,17,23,55,Florida,0
+1554,Office Chair,Furniture,820,31,25,58,California,1
+1555,Table,Furniture,773,28,18,57,Florida,1
+1556,Headphones,Electronics,743,20,13,34,New York,1
+1557,Knife Set,Kitchenware,507,27,25,52,New York,0
+1558,Knife Set,Kitchenware,442,16,5,47,New York,1
+1559,TV,Electronics,807,40,21,50,Florida,0
+1560,Washing Machine,Home Appliances,230,29,12,39,Texas,0
+1561,Table,Furniture,407,16,9,49,Texas,0
+1562,Toaster,Kitchenware,559,44,10,21,New York,0
+1563,Bookshelf,Furniture,472,39,30,19,Florida,0
+1564,Smartphone,Electronics,353,38,19,56,New York,1
+1565,Toaster,Kitchenware,515,47,13,33,California,1
+1566,Refrigerator,Home Appliances,398,25,23,48,Florida,0
+1567,Refrigerator,Home Appliances,871,12,11,19,California,1
+1568,Refrigerator,Home Appliances,853,36,10,47,Texas,1
+1569,Knife Set,Kitchenware,518,7,16,43,Texas,0
+1570,Toaster,Kitchenware,340,18,27,32,New York,1
+1571,Knife Set,Kitchenware,320,6,25,60,California,1
+1572,Office Chair,Furniture,112,19,30,58,New York,0
+1573,Blender,Kitchenware,323,8,17,41,California,1
+1574,TV,Electronics,189,28,14,20,New York,0
+1575,Gaming Console,Electronics,452,50,27,53,New York,0
+1576,Headphones,Electronics,761,49,20,51,California,1
+1577,Toaster,Kitchenware,275,39,16,43,Texas,0
+1578,Smartphone,Electronics,800,27,7,40,Florida,1
+1579,Coffee Maker,Home Appliances,576,5,9,20,Texas,0
+1580,Coffee Maker,Home Appliances,139,24,25,39,Texas,0
+1581,Coffee Maker,Home Appliances,720,31,26,35,Texas,0
+1582,Laptop,Electronics,121,37,19,39,Florida,0
+1583,Office Chair,Furniture,658,24,26,27,Texas,0
+1584,TV,Electronics,90,50,5,53,Texas,1
+1585,Sofa,Furniture,900,15,14,28,California,0
+1586,Coffee Maker,Home Appliances,506,20,20,28,California,1
+1587,Refrigerator,Home Appliances,841,5,20,43,Texas,0
+1588,Blender,Kitchenware,926,38,19,42,California,1
+1589,Knife Set,Kitchenware,736,10,28,43,Florida,0
+1590,Bookshelf,Furniture,573,36,24,36,Florida,1
+1591,Coffee Maker,Home Appliances,603,28,12,23,New York,1
+1592,Coffee Maker,Home Appliances,241,25,9,45,California,1
+1593,Knife Set,Kitchenware,933,17,22,59,Florida,1
+1594,Blender,Kitchenware,395,15,5,46,New York,1
+1595,Toaster,Kitchenware,561,29,28,55,Texas,0
+1596,Smartphone,Electronics,349,32,19,29,California,1
+1597,Refrigerator,Home Appliances,174,50,21,60,Texas,0
+1598,Office Chair,Furniture,131,45,26,39,California,1
+1599,Cookware Set,Kitchenware,638,34,18,19,California,1
+1600,Microwave,Home Appliances,998,35,23,34,Texas,0
+1601,Refrigerator,Home Appliances,503,17,26,45,California,1
+1602,Knife Set,Kitchenware,210,17,22,24,Florida,0
+1603,Toaster,Kitchenware,261,46,24,18,Texas,0
+1604,Table,Furniture,317,40,8,54,Florida,0
+1605,Microwave,Home Appliances,741,23,7,39,California,1
+1606,Sofa,Furniture,936,29,14,59,New York,0
+1607,Washing Machine,Home Appliances,488,40,18,23,Texas,0
+1608,Bookshelf,Furniture,529,37,27,20,New York,1
+1609,Coffee Maker,Home Appliances,125,32,12,35,New York,0
+1610,Table,Furniture,260,14,30,52,Florida,0
+1611,Office Chair,Furniture,162,36,26,48,Florida,0
+1612,Cookware Set,Kitchenware,739,36,6,40,Texas,1
+1613,Table,Furniture,209,21,11,54,California,1
+1614,Washing Machine,Home Appliances,63,11,18,27,New York,1
+1615,Sofa,Furniture,469,23,22,44,Florida,0
+1616,Sofa,Furniture,922,50,8,59,New York,0
+1617,Table,Furniture,572,13,25,22,Florida,1
+1618,Laptop,Electronics,210,16,7,36,New York,1
+1619,Bookshelf,Furniture,934,24,13,56,Florida,0
+1620,Office Chair,Furniture,102,39,7,60,Florida,0
+1621,Headphones,Electronics,746,27,28,32,New York,1
+1622,Table,Furniture,592,41,9,20,New York,1
+1623,TV,Electronics,62,16,14,38,Florida,1
+1624,Coffee Maker,Home Appliances,885,29,19,18,New York,1
+1625,Refrigerator,Home Appliances,454,28,19,26,New York,1
+1626,Table,Furniture,632,47,27,43,California,0
+1627,Microwave,Home Appliances,826,6,30,33,New York,1
+1628,Refrigerator,Home Appliances,180,10,9,60,New York,1
+1629,Sofa,Furniture,926,35,21,31,New York,0
+1630,Gaming Console,Electronics,471,36,14,46,Florida,1
+1631,Headphones,Electronics,180,29,12,56,California,1
+1632,Smartphone,Electronics,313,22,8,33,Texas,1
+1633,Gaming Console,Electronics,577,34,26,44,Florida,0
+1634,Toaster,Kitchenware,502,5,23,33,Texas,0
+1635,TV,Electronics,351,18,29,34,California,0
+1636,Gaming Console,Electronics,841,44,26,23,California,1
+1637,TV,Electronics,952,40,29,60,Florida,1
+1638,Coffee Maker,Home Appliances,390,13,6,47,Texas,0
+1639,Knife Set,Kitchenware,412,21,24,60,Florida,1
+1640,Bookshelf,Furniture,76,15,10,36,New York,1
+1641,Cookware Set,Kitchenware,725,45,10,60,New York,1
+1642,TV,Electronics,492,10,27,57,New York,1
+1643,Sofa,Furniture,92,5,25,37,New York,0
+1644,Microwave,Home Appliances,127,19,6,36,New York,1
+1645,Blender,Kitchenware,206,30,6,19,Florida,1
+1646,Laptop,Electronics,809,20,9,39,California,1
+1647,Microwave,Home Appliances,599,32,9,44,New York,1
+1648,Knife Set,Kitchenware,304,17,7,39,New York,1
+1649,Cookware Set,Kitchenware,356,44,14,38,New York,1
+1650,Sofa,Furniture,221,10,26,53,California,0
+1651,Laptop,Electronics,528,44,18,24,Texas,0
+1652,Blender,Kitchenware,795,7,13,18,New York,1
+1653,Table,Furniture,363,39,21,48,California,1
+1654,Microwave,Home Appliances,552,36,11,56,Texas,0
+1655,Cookware Set,Kitchenware,845,13,5,26,Florida,1
+1656,Office Chair,Furniture,986,19,27,22,California,0
+1657,TV,Electronics,952,32,12,25,California,0
+1658,Smartphone,Electronics,234,50,15,37,Florida,0
+1659,Knife Set,Kitchenware,467,46,14,37,New York,0
+1660,Coffee Maker,Home Appliances,67,21,5,53,Texas,0
+1661,Laptop,Electronics,166,5,25,40,Florida,1
+1662,Sofa,Furniture,946,28,20,45,California,0
+1663,Microwave,Home Appliances,862,21,9,60,Florida,0
+1664,Bookshelf,Furniture,285,39,30,18,Florida,1
+1665,TV,Electronics,296,32,29,19,California,0
+1666,Headphones,Electronics,708,18,6,29,Florida,0
+1667,Cookware Set,Kitchenware,748,48,16,18,New York,0
+1668,Sofa,Furniture,75,43,16,52,Florida,0
+1669,Sofa,Furniture,952,29,11,40,Florida,1
+1670,Bookshelf,Furniture,916,44,28,28,Texas,1
+1671,Microwave,Home Appliances,490,41,30,36,Texas,1
+1672,Headphones,Electronics,263,27,29,50,Texas,0
+1673,Smartphone,Electronics,572,50,21,23,New York,1
+1674,Knife Set,Kitchenware,462,6,17,20,Texas,0
+1675,Blender,Kitchenware,691,45,27,38,New York,0
+1676,Cookware Set,Kitchenware,378,24,17,34,Texas,0
+1677,Laptop,Electronics,742,38,18,52,Florida,0
+1678,Headphones,Electronics,845,24,12,22,Florida,0
+1679,Office Chair,Furniture,333,49,28,45,Florida,0
+1680,Microwave,Home Appliances,541,29,27,26,California,0
+1681,Microwave,Home Appliances,716,45,23,54,California,0
+1682,Microwave,Home Appliances,446,44,21,24,Texas,0
+1683,Refrigerator,Home Appliances,697,19,12,38,New York,1
+1684,Toaster,Kitchenware,279,12,5,35,California,0
+1685,Sofa,Furniture,367,11,23,60,Florida,0
+1686,Laptop,Electronics,775,27,27,34,New York,1
+1687,Headphones,Electronics,437,34,29,60,Texas,1
+1688,Blender,Kitchenware,313,34,10,30,New York,1
+1689,Office Chair,Furniture,769,48,28,54,Florida,0
+1690,Bookshelf,Furniture,533,32,5,55,Florida,0
+1691,Smartphone,Electronics,393,25,15,31,California,1
+1692,Bookshelf,Furniture,494,50,10,24,New York,1
+1693,Headphones,Electronics,941,23,23,60,New York,0
+1694,Coffee Maker,Home Appliances,827,14,30,37,Florida,1
+1695,Sofa,Furniture,806,41,12,36,California,1
+1696,Toaster,Kitchenware,219,45,17,57,Florida,1
+1697,Laptop,Electronics,889,47,15,34,Florida,0
+1698,Toaster,Kitchenware,704,6,20,25,Texas,1
+1699,Table,Furniture,119,21,25,35,Florida,0
+1700,Headphones,Electronics,116,15,25,38,California,0
+1701,Gaming Console,Electronics,909,48,27,20,California,1
+1702,Toaster,Kitchenware,173,35,5,48,New York,0
+1703,Washing Machine,Home Appliances,791,31,24,54,Florida,0
+1704,Headphones,Electronics,267,7,26,27,Texas,1
+1705,Table,Furniture,926,7,10,39,California,1
+1706,Knife Set,Kitchenware,733,14,9,44,California,1
+1707,Smartphone,Electronics,318,42,5,43,New York,1
+1708,Washing Machine,Home Appliances,388,17,14,39,California,0
+1709,Gaming Console,Electronics,530,8,14,36,Texas,0
+1710,Office Chair,Furniture,470,48,14,18,New York,0
+1711,Gaming Console,Electronics,697,48,23,21,California,0
+1712,Toaster,Kitchenware,330,34,24,33,New York,0
+1713,Sofa,Furniture,933,26,27,46,California,1
+1714,Table,Furniture,560,12,20,46,Texas,1
+1715,Refrigerator,Home Appliances,931,17,18,22,Florida,1
+1716,Smartphone,Electronics,391,23,6,39,Texas,1
+1717,Microwave,Home Appliances,610,9,11,39,Texas,0
+1718,Bookshelf,Furniture,552,19,28,28,Florida,1
+1719,Headphones,Electronics,748,23,23,19,Florida,0
+1720,Coffee Maker,Home Appliances,949,29,27,34,Florida,0
+1721,Cookware Set,Kitchenware,78,19,13,21,Florida,1
+1722,Coffee Maker,Home Appliances,997,48,30,33,New York,0
+1723,Sofa,Furniture,196,33,5,37,Texas,1
+1724,Washing Machine,Home Appliances,665,34,17,57,California,1
+1725,Headphones,Electronics,132,31,13,54,Florida,1
+1726,Cookware Set,Kitchenware,322,49,16,28,California,0
+1727,Laptop,Electronics,213,17,18,24,Texas,1
+1728,Cookware Set,Kitchenware,740,50,26,26,New York,0
+1729,Headphones,Electronics,504,22,25,37,Texas,0
+1730,Refrigerator,Home Appliances,799,17,18,60,New York,1
+1731,Laptop,Electronics,934,45,15,42,Texas,0
+1732,Knife Set,Kitchenware,320,11,21,22,Florida,1
+1733,Toaster,Kitchenware,262,14,13,54,New York,1
+1734,Refrigerator,Home Appliances,526,18,25,37,Florida,1
+1735,Cookware Set,Kitchenware,971,40,28,44,Texas,1
+1736,Toaster,Kitchenware,196,37,29,36,Florida,1
+1737,Washing Machine,Home Appliances,589,14,14,34,Florida,1
+1738,Coffee Maker,Home Appliances,123,40,5,48,Florida,0
+1739,Refrigerator,Home Appliances,866,16,22,40,Texas,0
+1740,Washing Machine,Home Appliances,925,23,21,18,California,1
+1741,Toaster,Kitchenware,230,26,6,25,Florida,1
+1742,Toaster,Kitchenware,206,25,29,21,New York,0
+1743,Sofa,Furniture,162,44,7,50,Texas,0
+1744,Headphones,Electronics,202,28,7,56,New York,0
+1745,Blender,Kitchenware,924,38,23,42,Texas,1
+1746,Table,Furniture,613,31,14,39,Florida,0
+1747,Microwave,Home Appliances,805,18,13,46,California,1
+1748,Smartphone,Electronics,385,48,9,18,Texas,0
+1749,Washing Machine,Home Appliances,243,37,25,30,California,0
+1750,Smartphone,Electronics,551,42,26,21,California,1
+1751,Cookware Set,Kitchenware,103,17,6,21,Florida,0
+1752,Refrigerator,Home Appliances,236,41,16,42,California,1
+1753,Bookshelf,Furniture,283,43,20,26,California,0
+1754,Coffee Maker,Home Appliances,985,43,27,57,New York,0
+1755,Washing Machine,Home Appliances,327,14,22,35,New York,0
+1756,Refrigerator,Home Appliances,219,30,16,58,Texas,1
+1757,Sofa,Furniture,276,22,20,20,California,1
+1758,Toaster,Kitchenware,718,15,18,29,Florida,1
+1759,Laptop,Electronics,712,42,24,20,New York,1
+1760,Laptop,Electronics,100,21,16,26,New York,0
+1761,TV,Electronics,143,9,25,45,Texas,1
+1762,Refrigerator,Home Appliances,108,41,15,18,Texas,0
+1763,Refrigerator,Home Appliances,383,48,23,35,Texas,1
+1764,Sofa,Furniture,735,38,12,56,New York,0
+1765,Toaster,Kitchenware,249,13,18,26,California,1
+1766,Knife Set,Kitchenware,112,31,22,48,Florida,0
+1767,Toaster,Kitchenware,479,12,21,33,New York,0
+1768,Office Chair,Furniture,195,23,13,29,New York,1
+1769,Knife Set,Kitchenware,140,29,27,31,Florida,1
+1770,Bookshelf,Furniture,792,15,29,18,Florida,0
+1771,Bookshelf,Furniture,958,5,12,55,Texas,1
+1772,Washing Machine,Home Appliances,748,50,16,59,California,1
+1773,Gaming Console,Electronics,773,16,25,18,New York,0
+1774,Bookshelf,Furniture,405,9,6,22,New York,0
+1775,Table,Furniture,857,31,7,45,California,0
+1776,Washing Machine,Home Appliances,859,19,17,23,California,0
+1777,Gaming Console,Electronics,636,45,19,33,Florida,1
+1778,Microwave,Home Appliances,411,27,19,24,Texas,0
+1779,Washing Machine,Home Appliances,959,42,15,39,California,1
+1780,Table,Furniture,590,11,25,52,New York,1
+1781,Refrigerator,Home Appliances,612,6,24,47,California,1
+1782,Blender,Kitchenware,676,32,5,47,Texas,1
+1783,Office Chair,Furniture,96,50,28,60,Florida,1
+1784,Laptop,Electronics,353,48,14,29,New York,1
+1785,Coffee Maker,Home Appliances,93,12,9,44,California,0
+1786,Toaster,Kitchenware,413,35,16,38,New York,1
+1787,Gaming Console,Electronics,939,32,22,32,Texas,0
+1788,Headphones,Electronics,99,11,21,49,New York,0
+1789,Sofa,Furniture,90,29,11,50,Texas,0
+1790,Microwave,Home Appliances,114,10,24,60,New York,1
+1791,Blender,Kitchenware,977,48,6,49,Florida,1
+1792,Washing Machine,Home Appliances,191,26,13,49,New York,0
+1793,Gaming Console,Electronics,330,42,9,20,New York,1
+1794,Cookware Set,Kitchenware,733,31,11,19,Florida,0
+1795,Table,Furniture,971,27,10,57,Florida,0
+1796,Sofa,Furniture,648,43,28,60,California,1
+1797,Headphones,Electronics,687,18,21,25,California,1
+1798,Smartphone,Electronics,753,45,14,37,Florida,1
+1799,Table,Furniture,991,20,16,29,Texas,1
+1800,Refrigerator,Home Appliances,944,31,5,57,Texas,0
+1801,Bookshelf,Furniture,969,44,27,41,New York,0
+1802,Microwave,Home Appliances,612,10,11,28,California,0
+1803,Cookware Set,Kitchenware,626,40,11,45,Florida,0
+1804,Knife Set,Kitchenware,803,25,28,23,New York,1
+1805,Refrigerator,Home Appliances,563,11,11,18,Texas,0
+1806,Refrigerator,Home Appliances,932,9,9,36,New York,1
+1807,Gaming Console,Electronics,823,39,27,50,Florida,1
+1808,Laptop,Electronics,96,5,13,52,Texas,0
+1809,Blender,Kitchenware,591,46,13,34,Texas,1
+1810,Blender,Kitchenware,719,37,10,48,Texas,1
+1811,Toaster,Kitchenware,553,35,5,25,New York,1
+1812,Cookware Set,Kitchenware,264,25,16,34,California,0
+1813,Table,Furniture,440,25,10,35,Florida,0
+1814,Coffee Maker,Home Appliances,468,40,8,44,California,0
+1815,Cookware Set,Kitchenware,991,15,17,40,Texas,1
+1816,Coffee Maker,Home Appliances,478,22,10,40,New York,0
+1817,Coffee Maker,Home Appliances,58,30,16,54,California,0
+1818,Laptop,Electronics,775,17,6,18,California,0
+1819,Washing Machine,Home Appliances,546,18,17,45,Texas,0
+1820,Microwave,Home Appliances,559,16,18,57,California,1
+1821,Headphones,Electronics,604,6,19,37,Florida,1
+1822,Smartphone,Electronics,346,21,23,21,Texas,0
+1823,Coffee Maker,Home Appliances,517,32,28,23,Florida,0
+1824,Refrigerator,Home Appliances,432,11,17,36,Florida,1
+1825,Laptop,Electronics,728,28,21,22,New York,1
+1826,Washing Machine,Home Appliances,602,25,27,38,California,1
+1827,Table,Furniture,931,34,13,25,Florida,0
+1828,Laptop,Electronics,282,7,10,40,California,0
+1829,TV,Electronics,296,35,10,47,California,0
+1830,Knife Set,Kitchenware,239,50,24,55,Florida,0
+1831,Office Chair,Furniture,878,35,5,42,Texas,0
+1832,Washing Machine,Home Appliances,285,9,28,55,Texas,1
+1833,Laptop,Electronics,977,43,12,18,California,1
+1834,Blender,Kitchenware,907,33,10,47,California,1
+1835,Knife Set,Kitchenware,730,24,18,19,New York,1
+1836,Bookshelf,Furniture,594,18,26,20,New York,1
+1837,Gaming Console,Electronics,514,33,21,53,Florida,0
+1838,Sofa,Furniture,740,19,7,40,Florida,0
+1839,Refrigerator,Home Appliances,486,18,13,57,Texas,0
+1840,Cookware Set,Kitchenware,337,47,15,20,Florida,1
+1841,Knife Set,Kitchenware,884,13,11,52,California,1
+1842,Microwave,Home Appliances,829,21,5,42,California,0
+1843,Washing Machine,Home Appliances,970,41,14,42,Texas,1
+1844,Blender,Kitchenware,611,36,22,24,Florida,0
+1845,Microwave,Home Appliances,277,10,6,41,California,0
+1846,Knife Set,Kitchenware,105,28,6,55,Florida,1
+1847,Bookshelf,Furniture,353,50,15,25,New York,1
+1848,Coffee Maker,Home Appliances,802,38,29,32,New York,0
+1849,Office Chair,Furniture,81,37,26,53,Florida,1
+1850,Microwave,Home Appliances,958,5,9,34,New York,0
+1851,Smartphone,Electronics,165,24,14,60,New York,1
+1852,Sofa,Furniture,455,11,11,44,California,1
+1853,Bookshelf,Furniture,642,29,20,30,New York,1
+1854,Smartphone,Electronics,951,44,21,27,Texas,1
+1855,Office Chair,Furniture,83,26,9,35,California,1
+1856,Knife Set,Kitchenware,861,10,15,46,Florida,0
+1857,Cookware Set,Kitchenware,91,37,10,21,New York,0
+1858,Blender,Kitchenware,770,41,13,47,New York,1
+1859,Table,Furniture,473,44,25,38,New York,0
+1860,Microwave,Home Appliances,844,42,10,33,California,0
+1861,Laptop,Electronics,56,33,18,19,New York,0
+1862,Headphones,Electronics,805,8,26,58,New York,0
+1863,Toaster,Kitchenware,616,6,10,36,New York,1
+1864,Toaster,Kitchenware,304,47,30,25,New York,1
+1865,Smartphone,Electronics,913,31,12,28,Florida,1
+1866,Table,Furniture,204,19,28,24,Florida,0
+1867,Bookshelf,Furniture,178,46,5,25,New York,1
+1868,Toaster,Kitchenware,620,35,12,18,California,0
+1869,Laptop,Electronics,724,25,8,34,California,1
+1870,Laptop,Electronics,495,31,5,53,Florida,1
+1871,Cookware Set,Kitchenware,215,38,26,41,California,1
+1872,Table,Furniture,520,20,8,23,Texas,0
+1873,Gaming Console,Electronics,210,38,28,58,Texas,0
+1874,Bookshelf,Furniture,342,19,22,35,Texas,1
+1875,Refrigerator,Home Appliances,819,48,5,28,Florida,1
+1876,Sofa,Furniture,1000,28,5,48,Florida,0
+1877,Washing Machine,Home Appliances,484,7,18,39,New York,1
+1878,Gaming Console,Electronics,65,40,26,58,Florida,1
+1879,Coffee Maker,Home Appliances,807,32,25,26,Texas,1
+1880,Refrigerator,Home Appliances,967,42,9,37,California,1
+1881,Toaster,Kitchenware,72,13,10,27,Texas,0
+1882,Coffee Maker,Home Appliances,872,47,5,49,New York,0
+1883,Refrigerator,Home Appliances,584,15,10,40,Florida,0
+1884,Headphones,Electronics,645,26,19,55,California,0
+1885,Blender,Kitchenware,692,37,29,46,Florida,0
+1886,Sofa,Furniture,153,25,5,20,New York,1
+1887,Knife Set,Kitchenware,949,47,25,50,New York,1
+1888,Toaster,Kitchenware,252,44,12,25,California,0
+1889,Coffee Maker,Home Appliances,396,41,28,29,California,1
+1890,Headphones,Electronics,179,25,17,34,Florida,1
+1891,Table,Furniture,974,39,18,18,Texas,1
+1892,Table,Furniture,192,31,28,47,New York,1
+1893,Coffee Maker,Home Appliances,255,12,30,53,Texas,1
+1894,Microwave,Home Appliances,792,31,14,57,California,1
+1895,Knife Set,Kitchenware,245,6,15,39,Florida,1
+1896,Table,Furniture,982,46,22,38,Texas,0
+1897,Table,Furniture,819,5,9,19,California,1
+1898,Laptop,Electronics,208,36,29,52,New York,1
+1899,Washing Machine,Home Appliances,556,43,18,39,Texas,0
+1900,Washing Machine,Home Appliances,245,50,14,59,Texas,1
+1901,Knife Set,Kitchenware,78,36,25,28,New York,1
+1902,Bookshelf,Furniture,738,13,7,41,New York,1
+1903,Office Chair,Furniture,68,15,6,22,Texas,1
+1904,Washing Machine,Home Appliances,782,44,26,33,California,1
+1905,Toaster,Kitchenware,599,16,14,29,Florida,1
+1906,Headphones,Electronics,811,27,7,40,California,0
+1907,Washing Machine,Home Appliances,490,12,10,55,Texas,0
+1908,Office Chair,Furniture,102,11,17,39,California,1
+1909,Office Chair,Furniture,549,47,11,49,Texas,0
+1910,Refrigerator,Home Appliances,100,18,11,22,Texas,0
+1911,Washing Machine,Home Appliances,810,26,15,20,Texas,0
+1912,Laptop,Electronics,479,6,15,28,Texas,0
+1913,Smartphone,Electronics,299,9,16,32,New York,0
+1914,Refrigerator,Home Appliances,377,6,17,20,California,1
+1915,Washing Machine,Home Appliances,393,12,9,45,New York,1
+1916,Sofa,Furniture,614,13,26,49,Florida,0
+1917,Sofa,Furniture,439,17,14,22,Texas,0
+1918,Office Chair,Furniture,923,35,14,26,Texas,1
+1919,TV,Electronics,539,23,21,48,California,1
+1920,Knife Set,Kitchenware,342,11,19,53,Texas,0
+1921,Table,Furniture,426,7,12,47,Texas,0
+1922,Office Chair,Furniture,701,7,20,42,Texas,0
+1923,Refrigerator,Home Appliances,752,19,20,52,Texas,0
+1924,Laptop,Electronics,188,39,7,51,California,1
+1925,Knife Set,Kitchenware,607,17,11,39,New York,1
+1926,Smartphone,Electronics,148,49,24,57,Texas,0
+1927,Cookware Set,Kitchenware,849,34,27,22,New York,1
+1928,Microwave,Home Appliances,76,13,16,22,Texas,0
+1929,Laptop,Electronics,263,9,19,25,California,1
+1930,Blender,Kitchenware,184,25,10,18,New York,1
+1931,Cookware Set,Kitchenware,889,38,12,32,Texas,0
+1932,Toaster,Kitchenware,66,12,25,20,New York,0
+1933,Refrigerator,Home Appliances,474,10,27,34,New York,0
+1934,Laptop,Electronics,76,28,6,44,Florida,1
+1935,Office Chair,Furniture,829,14,20,32,California,1
+1936,Table,Furniture,631,47,22,52,New York,1
+1937,Table,Furniture,67,40,6,34,Texas,0
+1938,Refrigerator,Home Appliances,559,8,15,32,New York,1
+1939,Sofa,Furniture,949,20,15,35,Texas,0
+1940,Coffee Maker,Home Appliances,322,36,16,33,California,1
+1941,Knife Set,Kitchenware,263,36,16,47,New York,1
+1942,Laptop,Electronics,53,18,6,52,New York,1
+1943,Cookware Set,Kitchenware,909,32,17,41,Texas,0
+1944,Blender,Kitchenware,788,25,26,34,Texas,0
+1945,Coffee Maker,Home Appliances,777,20,21,33,New York,0
+1946,Cookware Set,Kitchenware,584,38,10,49,California,0
+1947,Bookshelf,Furniture,535,36,30,28,California,1
+1948,Laptop,Electronics,254,9,17,56,California,0
+1949,Knife Set,Kitchenware,634,18,19,55,California,0
+1950,Blender,Kitchenware,773,13,7,46,Florida,1
+1951,Bookshelf,Furniture,686,20,28,40,New York,1
+1952,Office Chair,Furniture,293,47,5,19,Florida,1
+1953,Washing Machine,Home Appliances,475,22,27,58,California,1
+1954,Smartphone,Electronics,273,29,25,28,New York,0
+1955,Table,Furniture,303,5,21,38,New York,0
+1956,Knife Set,Kitchenware,145,36,21,43,California,0
+1957,Coffee Maker,Home Appliances,539,22,8,40,California,0
+1958,Bookshelf,Furniture,666,30,20,59,Texas,0
+1959,Toaster,Kitchenware,499,23,8,30,Texas,1
+1960,Headphones,Electronics,230,28,15,52,New York,1
+1961,Refrigerator,Home Appliances,508,30,15,60,Florida,0
+1962,Blender,Kitchenware,477,34,8,43,New York,0
+1963,Coffee Maker,Home Appliances,710,26,24,56,Texas,1
+1964,Washing Machine,Home Appliances,943,37,18,24,Texas,0
+1965,Blender,Kitchenware,859,29,26,31,California,1
+1966,Headphones,Electronics,590,15,16,47,New York,1
+1967,Blender,Kitchenware,893,40,21,45,New York,0
+1968,Sofa,Furniture,806,15,23,37,New York,0
+1969,Cookware Set,Kitchenware,327,44,15,26,Florida,0
+1970,Smartphone,Electronics,871,45,13,46,Florida,1
+1971,Blender,Kitchenware,969,33,29,36,Florida,1
+1972,Blender,Kitchenware,73,12,25,34,California,1
+1973,Microwave,Home Appliances,471,46,26,42,California,0
+1974,Sofa,Furniture,933,34,9,33,Florida,1
+1975,Blender,Kitchenware,810,19,9,39,Texas,1
+1976,Smartphone,Electronics,439,49,28,29,Texas,0
+1977,Coffee Maker,Home Appliances,473,50,19,53,Texas,1
+1978,Gaming Console,Electronics,457,24,12,42,New York,1
+1979,Gaming Console,Electronics,336,36,15,50,Texas,1
+1980,Office Chair,Furniture,728,8,16,56,Florida,0
+1981,Headphones,Electronics,127,48,21,31,Florida,1
+1982,TV,Electronics,218,27,26,59,Florida,1
+1983,Blender,Kitchenware,755,44,17,60,California,0
+1984,Sofa,Furniture,246,9,5,21,New York,0
+1985,Toaster,Kitchenware,775,44,14,41,Florida,0
+1986,Washing Machine,Home Appliances,794,44,10,24,Florida,0
+1987,Table,Furniture,178,23,20,24,California,1
+1988,Sofa,Furniture,198,13,26,37,Florida,0
+1989,Washing Machine,Home Appliances,288,21,17,54,Florida,0
+1990,Bookshelf,Furniture,595,6,12,57,California,1
+1991,Office Chair,Furniture,236,25,20,21,Texas,1
+1992,Sofa,Furniture,646,20,24,46,New York,0
+1993,Headphones,Electronics,289,46,19,36,Texas,0
+1994,Sofa,Furniture,109,12,25,24,Texas,0
+1995,Sofa,Furniture,147,15,9,60,New York,0
+1996,Coffee Maker,Home Appliances,865,41,23,55,Florida,1
+1997,Cookware Set,Kitchenware,773,45,30,25,Florida,1
+1998,Laptop,Electronics,650,20,29,33,California,1
+1999,Toaster,Kitchenware,629,47,29,21,Florida,0
+2000,TV,Electronics,801,41,28,50,New York,0
