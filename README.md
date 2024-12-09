@@ -37,16 +37,6 @@ The performance of the model is assessed by the following metrics:
 - RMSE: The square root of MSE. It is a measure of the error size in the same unit as the target variable.
 - R-squared (R²): It measures the quality of the model about the variance in the target variable. The closer it is to 1, the better the model.
 
-Contributing
-
-Contributions are more than welcome! If you'd like to contribute to this project, simply fork the repository and submit a pull request.
-
-1. Fork the repository
-2. Create a new branch `git checkout -b feature-branch`
-3. Make your changes and commit them `git commit -am 'Add new feature'`
-4. Push to the branch `git push origin feature-branch`
-5. Submit a pull request.
-
 ![model](https://github.com/user-attachments/assets/1fe40c40-146a-4322-8632-f5e2348c97ea)
 
 ![prediction](https://github.com/user-attachments/assets/8074bc34-db0a-497c-8826-ab85fc71ca68)
